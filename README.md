@@ -29,7 +29,7 @@ Both approaches are evaluated with and without data augmentation to analyze perf
 ### Setup
 1. Clone the repository:
 ```bash
-git clone [https://github.com/neelashkannan/Machine-vision-Assignement-2.git]
+git clone https://github.com/neelashkannan/Machine-vision-Assignement-2.git
 cd Machine-vision-Assignement-2
 ```
 
