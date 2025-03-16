@@ -116,7 +116,3 @@ Heriot-Watt University
 Edinburgh, United Kingdom  
 Email: na3018@hw.ac.uk
 
-## Acknowledgments
-- The CIFAR-10 dataset by Alex Krizhevsky and Geoffrey Hinton
-- ResNet architecture by Kaiming He et al.
-- Streamlit for the interactive web application framework
